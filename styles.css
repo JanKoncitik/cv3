@@ -1,0 +1,230 @@
+/*********TAG SELECTORS**********/
+body {
+  background-color: #ffffdd;
+  margin: 0;
+  font-family: 'Merriweather', serif;
+}
+
+hr {
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1 {
+  color: #00e0ff;
+  font-family: 'Dancing Script', cursive;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  color: #ff7315;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h4 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+img:hover {
+  background-color: gold;
+}
+
+/*************CLASS SELECTORS**************/
+.christmass-tree {
+  background-color: #ff7315;
+}
+
+.dove {
+  background-color: #00e0ff;
+}
+
+.circular {
+  border-radius: 100%;
+}
+
+.top {
+  background-color: #00e0ff;
+  border: solid;
+  border-color: gold;
+}
+
+.top:hover {
+  border: solid;
+  border-color: #baf1a1;
+}
+
+.course-list {
+  text-indent: 285px;
+}
+
+.fixed-div {
+  position: fixed;
+  background-color: #00e0ff;
+  top: 502px;
+  height: 153px;
+  width: 222px;
+}
+
+.fixed-div2 {
+  position: fixed;
+  background-color: #00e0ff;
+  top: 502px;
+  right: 0px;
+  height: 153px;
+  width: 222px;
+}
+
+.h1-adjustment {
+  position: relative;
+  left: 25px;
+}
+
+.nomargin {
+  position: relative;
+  margin: 0;
+}
+
+.games-section {
+  background-color: #00e0ff;
+  position: absolute;
+  height: 211px;
+  width: 773.5px;
+  left: 222px;
+  margin-top: 2.5px;
+}
+
+.games-section-b {
+  background-image: url('cool-background.png');
+  position: absolute;
+  height: 2035px;
+  width: 937px;
+  left: 222px;
+  margin-top: 213px;
+}
+
+.games-section2 {
+  background-color: #00e0ff;
+  position: absolute;
+  height: 211px;
+  width: 163.5px;
+  right: 222px;
+  margin-top: 2.5px;
+}
+
+.gamesdiv {
+  background-color: #00e0ff;
+  left: 100px;
+  }
+
+.skillstable {
+  position: relative;
+  left: 333px;
+  }
+
+
+  .mountain {
+    position: absolute;
+    left: 175px;
+    bottom: 0px;
+  }
+
+  .cloud1 {
+    position: absolute;
+    left: 400px;
+    top: 1600px;
+  }
+
+  .cloud2 {
+    position: absolute;
+    right: 200px;
+    top: 150px;
+  }
+
+  .cloud3 {
+    position: absolute;
+    left: 400px;
+    top: 320px;
+  }
+
+  .cloud4 {
+    position: relative;
+    left: 90px;
+    bottom: 0px;
+  }
+
+  .cloud5 {
+    position: absolute;
+    left: 30px;
+    top: 1300px;
+  }
+
+  .cloud6 {
+    position: absolute;
+    right: 90px;
+    top: 1000px;
+  }
+
+  .cloud7 {
+    position: absolute;
+    right: 190px;
+    bottom: 600px;
+  }
+
+  .cloud8 {
+    position: absolute;
+    left: 200px;
+    top: 1500px;
+  }
+
+  .cloud9 {
+    position: absolute;
+    left: 400px;
+    top: 700px;
+  }
+
+  .cloud10 {
+    position: absolute;
+    left: 90px;
+    top: 600px;
+  }
+
+  .higher {
+    position: absolute;
+    top: 238px;
+    left: 640px;
+  }
+
+  .higher2 {
+    display: inline-block;
+    position: relative;
+    bottom: 40.33px;
+    left: 25px;
+  }
+
+.relative {
+  position: relative;
+}
+
+
+/**
+
+.top2 {
+  background-color: #00e0ff;
+  border-color: gold;
+}
+
+**/
+/**************ID SELECTORS***************/
+#heading {
+  font-size: 50px;
+}
+
+/*****text decoration - underline
+text-decoration: underline;
+*****/
